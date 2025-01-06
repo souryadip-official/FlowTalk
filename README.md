@@ -14,7 +14,7 @@
 - Basic and user-friendly chat interface.
 
 ## Technologies Used
-- **Frontend:** HTML, CSS, Tailwind CSS, Daisy UI, JavaScript, React.js
+- **Frontend:** HTML, CSS (Tailwind CSS, Daisy UI), JavaScript, React.js
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Real-Time Communication:** Socket.IO  
