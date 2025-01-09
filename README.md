@@ -22,7 +22,7 @@
 - **Cloud Support:** Cloudinary
 - **Deployment:** Render
 
-- ## Demo
-Check out the live demo of this project: [https://flowtalk-scop.onrender.com]
+## Demo
+- Check out the live demo of this project: https://flowtalk-scop.onrender.com
 
 Happy coding and let your chats flow with FlowTalk🌀
