@@ -20,6 +20,9 @@
 - **Real-Time Communication:** Socket.IO  
 - **Authentication:** JSON Web Tokens (JWT)
 - **Cloud Support:** Cloudinary
-- **Deployment:** Render 
+- **Deployment:** Render
+
+- ## Demo
+Check out the live demo of this project: [https://flowtalk-scop.onrender.com]
 
 Happy coding and let your chats flow with FlowTalk🌀
